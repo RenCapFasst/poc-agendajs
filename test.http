@@ -1,0 +1,7 @@
+### Create a poc job
+POST http://localhost:3000/agenda/jobs
+Content-Type: application/json
+
+{
+  "poc": 1
+}
